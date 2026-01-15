@@ -1,0 +1,49 @@
+<html>
+<head>
+<title> welcome </title>
+</head>
+<body bgcolor="green" text="purple">
+<h1><i>SILICON UNIVERSITY</i></h1>
+<h2><i>Hrushikesh</i></h2>
+<h3>Pattanaik</h3>
+<b>hrushikesh</b>
+<h1><em>HRUSHIKESH</em></h1>
+<h2><u><mark>WELCOME</mark> to html programming</u></h2>
+</br>
+<del>WELCOME to html programming</del>
+<h2>WELCOME<SMALL>html programming</SMALL></h2>
+<h3><blockquote>HRUSHIKESH</blockquote></h3>
+<bdo>hrp</bdo>
+<progress value= "22" max="100"></progress></br>
+<meter value="0.6">45%</meter>
+<h2>WELCOME</h2>
+<p> The <abbr title="World Health Organization">WHO</abbr>was founded in 1948</p>
+<h2><kbd>hey,HTML is opened</kbd></h2>
+<h2><s>Welcome to html</s></h2>
+<h2><strike> welcome to HTML</strike></h2>
+<h2><var>welcome to HTML</var></h2>
+<h1><dd>WELCOME TO HTML</dd></h1>
+<form>
+<fieldset>
+<legend><h3>Personal database:</h3></legend>
+Name: <input type="text"><br>
+Email: <input type="text"><br>
+<input type="button" name="submit">
+</fieldset>
+</form>
+<meta charset="UTF-8">
+<meta name="description" content="Free Web tutorials">
+<meta name="keywords" content="HTML,CSS,XML,javaScript">
+<meta name="author" content="John Doe">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<nav>
+<a href="/html/">HTML</a>
+<a href="/css/">CSS</a>
+<a href="/js/">JavaScript</a>
+<a href="/jquery/">jQuery</a>
+</nav>
+<marquee direction= "right" bgcolor="grey" height=50 width="100%" secolldelay=10 secollamount=10>
+<font size=7> this is the example of marquee text</font>
+</marquee>
+</body>
+</html>
